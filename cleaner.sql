@@ -1252,3 +1252,4 @@ select codigo_cliente, nombre_cliente, ciudad, codigo_empleado_rep_ventas
 from cliente
 where ciudad = 'Madrid'
   and codigo_empleado_rep_ventas in (11, 30);
+.
