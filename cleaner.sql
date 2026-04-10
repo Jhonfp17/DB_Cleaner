@@ -956,6 +956,8 @@ concat(o.codigo_oficina,' - ', o.ciudad) as cod_ciudad_oficina
  /* RETO 3 - Retorna el listado con todos los clientes que sean
  de la ciudad de Madrid y cuyo representante de ventas tenga 
  el código de empleado 11 ó 30. */
+
+/*RETO 4 */
  
  describe cliente;
  describe empleado;
